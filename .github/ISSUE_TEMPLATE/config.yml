@@ -1,0 +1,10 @@
+# Shown on the "New issue" page of every repository that has no issue templates of its own.
+# sohedra/sohedra has its own forms; the other repositories keep blank issues until they get forms.
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question
+    url: https://github.com/sohedra/sohedra/discussions/categories/q-a
+    about: Questions about any Sohedra project go to Q&A in Discussions.
+  - name: Report a security vulnerability
+    url: https://github.com/sohedra/.github/blob/main/SECURITY.md
+    about: Please report it privately, not in a public issue.
